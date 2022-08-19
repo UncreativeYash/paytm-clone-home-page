@@ -1,4 +1,4 @@
-# Project 15 | Product Design Landing Page
+# Project Paytm Clone
 ---
 
 ## Tech-Stack Used
@@ -7,9 +7,9 @@
 
 ---
 ## Live Link
-[Product Design Landing Page](https://paytmdotcom-by-yash.netlify.app/)
+[Paytm](https://paytmdotcom-by-yash.netlify.app/)
 
 ---
 
 ## Project Screenshot
-![Paytm-clone](/paytm.png)
+![Paytm-Clone](/paytm.png)
